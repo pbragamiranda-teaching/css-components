@@ -1,0 +1,9 @@
+.avatar {
+  width: 54px;
+  border-radius: 50%;
+}
+
+.avatar-lg {
+  width: 80px;
+  border-radius: 50%;
+}
